@@ -48,20 +48,23 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github.com/fedemoles/fedemoles/blob/main/languages.png"
-    alt="languages" 
-    bg_color=#808080/></p>
-
-<br>
-
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fedemoles&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="fedemoles" 
     bg_color=#808080/></p>
 
 <br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedemoles&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="fedemoles" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedemoles&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="fedemoles" /></p>
+
+<!-- <br>
+<h3>Trophies :-</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
 
 [fedemoles](https://github.com/fedemoles)
 
