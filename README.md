@@ -3,7 +3,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="fedemoles" /></p>
 
 - 🌱 I’m currently learning Web Development, JS, REACT and other frameworks and programming languages
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/angel-federico-moles-del-pópolo-5295b43b" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/angel-federico-moles-del-p%C3%B3polo-5295b43b?original_referer=" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="fede moles" height="30" width="40" /></a>
 </p>
 
 <br>
