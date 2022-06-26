@@ -1,15 +1,9 @@
-<!---
-fedemoles/fedemoles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Fede Moles</h1>
 <h3 align="center">Actually Student of ✨Front-End Development✨.</h3>
 
 <br>
 
 <p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
 
 - 🌱 I’m currently learning Web Development, JS, REACT and other frameworks and programming languages
 
@@ -52,4 +46,9 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-[fede-moles](https://github.com/fedemoles)
+[fedemoles](https://github.com/fedemoles)
+
+<!---
+fedemoles/fedemoles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
