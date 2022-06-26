@@ -68,7 +68,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
       src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="adam-pw" /></a> </p> -->
 
+<!---
 [fedemoles](https://github.com/fedemoles)
+--->
 
 <!---
 fedemoles/fedemoles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
