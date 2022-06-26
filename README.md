@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fede Moles</h1>
-<h3 align="center">Actually Student of ✨Front-End Development✨.</h3>
+<h3 align="center">Student of ✨Front-End Development✨.</h3>
 
 <br>
 
@@ -60,6 +60,8 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedemoles&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="fedemoles" /></p>
+
+<br>
 
 <!-- <br>
 <h3>Trophies :-</h3>
