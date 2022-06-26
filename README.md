@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fededevcod@gmail.com**
 
-- ⚡ Fun fact :- Travel, Food, Videogames, Movies and Music🎵 are the reasons to live.
+- 😎 Fun fact :- Travel, Food, Videogames, Movies and Music🎵 are the reasons to live.
 
 <br>
 
