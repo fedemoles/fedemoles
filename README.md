@@ -2,6 +2,7 @@
 <h3 align="center">Student of ✨Front-End Development✨.</h3>
 
 <p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="fedemoles" /></p>
+
 <br>
 
 - 🌱 I’m currently learning Web Development, JS, REACT and other frameworks and programming languages
@@ -9,6 +10,7 @@
 - 📫 How to reach me **fededevcod@gmail.com**
 
 - 😎 Fun fact :- Travel, Food, Videogames, Movies and Music🎵 are the reasons to live.
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
