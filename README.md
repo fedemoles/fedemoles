@@ -46,6 +46,14 @@
 
 <br>
 
+<h3>Current Courses :-</h3>
+<p><img align="center"
+    src="https://github.com/fedemoles/fedemoles/blob/main/62b8dc842132110024a0d29b.png"
+    alt="fedemoles" 
+    bg_color=#808080/></p>
+
+<br>
+
 <h3>Statistical Data :-</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=fedemoles&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
