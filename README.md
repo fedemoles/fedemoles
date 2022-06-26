@@ -45,13 +45,22 @@
       height="40" /> </a> </p>
 
 <br>
-<br>
+
 <h3>Statistical Data :-</h3>
-<p><img align="center border"
+<p><img align="center"
     src="https://github.com/fedemoles/fedemoles/blob/main/languages.png"
     alt="languages" 
     bg_color=#808080/></p>
+
 <br>
+
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=fedemoles&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="fedemoles" 
+    bg_color=#808080/></p>
+
 <br>
 
 [fedemoles](https://github.com/fedemoles)
