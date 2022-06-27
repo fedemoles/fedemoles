@@ -5,11 +5,11 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development, JS, REACT and other frameworks and programming languages
+- 🌱 I’m currently learning Web Development, JS, REACT and other frameworks and programming languages.
 
 - 📫 How to reach me **fededevcod@gmail.com**
 
-- 😎 Fun fact :- Travel, Food, Videogames, Movies and Music🎵 are the reasons to live.
+- 😎 Fun fact :- Code💻, Travel✈, Food🍝, Videogames🎮, Movies🎞 and Music🎵 are the reasons to live.
 
 <br>
 
