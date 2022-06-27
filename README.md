@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Web Development, JS, REACT and other frameworks and programming languages.
+- 🌱 I’m currently studying front-end development (Web Development, JS, REACT) and other frameworks and programming languages.
 
 - 📫 How to reach me **fededevcod@gmail.com**.
 
