@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Web Development, JS, REACT and other frameworks and programming languages.
 
-- 📫 How to reach me **fededevcod@gmail.com**
+- 📫 How to reach me **fededevcod@gmail.com**.
 
 - 😎 Fun fact :- Code💻, Travel✈, Food🍝, Videogames🎮, Movies🎞 and Music🎵 are the reasons to live.
 
