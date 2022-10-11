@@ -51,7 +51,12 @@
     src="https://github.com/fedemoles/fedemoles/blob/main/62b8dc842132110024a0d29b.png"
     alt="fedemoles" 
     bg_color=#808080/></p>
-
+    
+<p><img align="center"
+    src="https://github.com/fedemoles/fedemoles/blob/main/631a6ff2d660430019df387f.png"
+    alt="fedemoles" 
+    bg_color=#808080/></p>
+    
 <br>
 
 <h3>Statistical Data :-</h3>
