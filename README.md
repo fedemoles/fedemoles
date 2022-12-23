@@ -63,6 +63,10 @@
     alt="fedemoles" 
     bg_color=#808080/></p>
     
+<p><img align="center"
+    src="https://github.com/fedemoles/fedemoles/blob/main/63a1fe24879435000eebd078.png"
+    alt="fedemoles" 
+    bg_color=#808080/></p>
 <br>
 
 <h3>Statistical Data :-</h3>
