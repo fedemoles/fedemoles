@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fede Moles</h1>
-<h3 align="center">Student of ✨Front-End Development✨.</h3>
+<h3 align="center">✨Front-End Developer✨.</h3>
 <p align="center">
-<a href="https://github.com/fedemoles"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+github+page;I'm+Fede+Moles;I'm+a+Student+of;Front+End+Development"></a>
+<a href="https://github.com/fedemoles"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Welcome+to+my+github+page;I'm+Fede+Moles;I'm+Front+End+Developer"></a>
 </p>
 
 <p><img align="right" src="https://github.com/fedemoles/fedemoles/blob/main/animation_500_kxa883sd.gif" alt="fedemoles" width="30%"/></p>
