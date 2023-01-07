@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I’m currently studying Front-End Development (Web Development, JS, REACT), other frameworks and programming languages.
+- 🌱 I’m Front-End Developer (Web Development, JS, REACT), and I currently studying other frameworks and programming languages.
 
 - 📫 How to reach me **fededevcod@gmail.com**.
 
@@ -52,7 +52,13 @@
 
 <br>
 
-<h3>Current Courses :-</h3>
+<h3>Current Career :-</h3>
+<p><img align="center"
+    src="https://github.com/fedemoles/fedemoles/blob/main/63a1fe24879435000eebd07b.png"
+    alt="fedemoles" 
+    bg_color=#808080/></p>
+    
+<h3>Current Courses :-</h3>    
 <p><img align="center"
     src="https://github.com/fedemoles/fedemoles/blob/main/62b8dc842132110024a0d29.png"
     alt="fedemoles" 
