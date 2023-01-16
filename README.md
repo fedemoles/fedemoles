@@ -8,7 +8,7 @@
 
 <br>
 
-- 🌱 I’m Front-End Developer (Web Development, JS, REACT), and I currently studying other frameworks and programming languages.
+- 🌱 I’m Front-End Developer (Web Development, Javascript, React Js), and I currently studying other frameworks and programming languages.
 
 - 📫 How to reach me **fededevcod@gmail.com**.
 
